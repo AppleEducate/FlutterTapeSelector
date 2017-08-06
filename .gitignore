@@ -1,0 +1,16 @@
+
+.atom/
+.idea
+.packages
+.pub/
+build/
+ios/.generated/
+packages
+pubspec.lock
+.flutter-plugins
+
+# Android
+*.iml
+
+# MacOS
+.DS_Store
